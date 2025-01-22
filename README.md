@@ -5,3 +5,6 @@ git clone -q git@github.com:eucalypsih/eucalypsih_config1.git && cd eucalypsih_c
 Editing
   Alt  + a Mark set/unset
   Ctrl + 6 Mark set/unset
+
+  Ctrl + k Cut current line into cutbuffer
+  Ctrl + u Paste contents of cutbuffer
